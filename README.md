@@ -47,4 +47,9 @@ This folder contains the sample datasets used inside the notebooks.
 
 ---
 
+- [RCM Dashboard Project](./RCM_Dashboard_UserGuide.ipynb)
+- [Big Data Transparency Project](./Transparency_Data_Project.ipynb)
+- [RCM Impact Report (NEW)](./RCM_Impact_Report_UserGuide.ipynb)
+
+
 
