@@ -47,9 +47,9 @@ This folder contains the sample datasets used inside the notebooks.
 
 ---
 
-- [RCM Dashboard Project](https://github.com/johnmaho1308/Notebooks//RCM_Dashboard_UserGuide.ipynb)
-- [Big Data Transparency Project](https://github.com/johnmaho1308/Notebooks//Transparency_Data_Project.ipynb)
-- [RCM Impact Report (NEW)](https://github.com/johnmaho1308/Notebooks//RCM_Impact_Report_UserGuide.ipynb)
+- [RCM Dashboard Project](https://github.com/johnmaho1308/Notebooks/blob/main/RCM_Dashboard_UserGuide.ipynb)
+- [Big Data Transparency Project](https://github.com/johnmaho1308/Notebooks/blob/main/Transparency_Data_Project.ipynb)
+- [RCM Impact Report (NEW)](https://github.com/johnmaho1308/Notebooks/blob/main/RCM_Impact_Assesment_UserGuide.ipynb)
 
 
 
